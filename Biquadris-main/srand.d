@@ -1,0 +1,1 @@
+srand.o: srand.cc
